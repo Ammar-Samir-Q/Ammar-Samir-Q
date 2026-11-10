@@ -24,7 +24,7 @@ I enjoy understanding how things work internally, solving problems, and continuo
 
 ### 1. DVLD - Driving and Vehicles Licensing Department
 
-![DVLD](Images/DVLD-Card.png)
+![DVLD](Images/DVLD.png)
 
 A complete desktop application for managing driving licenses, drivers, applications, and testing operations, built using a Three-Tier Architecture.
 
@@ -36,7 +36,7 @@ A complete desktop application for managing driving licenses, drivers, applicati
 
 ### 2. Workflow - Goal Management System
 
-![Workflow](Images/Workflow-Card.png)
+![Workflow](Images/GoalManager.png)
 
 A goal management application designed to organize goals, objectives, tasks, and work sessions, with progress tracking and secure API authentication.
 
@@ -48,7 +48,7 @@ A goal management application designed to organize goals, objectives, tasks, and
 
 ### 3. Car Rental Management System
 
-![Car Rental](Images/Car-Rental-Card.png)
+![Car Rental](Images/CarRental.png)
 
 A desktop application for managing car rentals, customers, vehicles, and rental operations using a layered architecture.
 
@@ -60,7 +60,7 @@ A desktop application for managing car rentals, customers, vehicles, and rental 
 
 ### 4. BankCore - Banking Management System
 
-![BankCore](Images/BankCore-Card.png)
+![BankCore](Images/BMS.png)
 
 A console-based banking management application built with C++, focusing on organizing banking operations and applying object-oriented programming concepts.
 
