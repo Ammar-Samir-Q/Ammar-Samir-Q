@@ -30,7 +30,7 @@ A complete desktop application for managing driving licenses, drivers, applicati
 
 **Technologies:** C# · .NET Framework · SQL Server · ADO.NET · Windows Forms
 
-**[View Repository]((https://github.com/Ammar-Samir-Q/DVLD-Project.git))**
+**[View Repository]((https://github.com/Ammar-Samir-Q/DVLD-Project))**
 
 ---
 
@@ -42,7 +42,7 @@ A goal management application designed to organize goals, objectives, tasks, and
 
 **Technologies:** C# · ASP.NET Core Web API · SQL Server · JWT · ADO.NET
 
-**[View Repository](YOUR_WORKFLOW_REPOSITORY_LINK)**
+**Work in Progress
 
 ---
 
@@ -54,7 +54,7 @@ A desktop application for managing car rentals, customers, vehicles, and rental 
 
 **Technologies:** C# · .NET Framework · SQL Server · ADO.NET · Windows Forms
 
-**[View Repository](YOUR_CAR_RENTAL_REPOSITORY_LINK)**
+**[View Repository](https://github.com/Ammar-Samir-Q/Car-Rental-Project)**
 
 ---
 
@@ -66,11 +66,11 @@ A console-based banking management application built with C++, focusing on organ
 
 **Technologies:** C++ · OOP
 
-**[View Repository](YOUR_BANKCORE_REPOSITORY_LINK)**
+**[View Repository](https://github.com/Ammar-Samir-Q/bank-system-cli)**
 
 ---
 
 ## Connect With Me
 
-- GitHub: [Ammar-Samir-Q](YOUR_GITHUB_LINK)
-- LinkedIn: [Connect with me](YOUR_LINKEDIN_LINK)
+- GitHub: [Ammar-Samir-Q](https://github.com/Ammar-Samir-Q)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/ammar-samir-al-qashbari-89a557432)
