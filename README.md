@@ -30,7 +30,7 @@ A complete desktop application for managing driving licenses, drivers, applicati
 
 **Technologies:** C# · .NET Framework · SQL Server · ADO.NET · Windows Forms
 
-**[View Repository]((https://github.com/Ammar-Samir-Q/DVLD-Project))**
+**[View Repository](https://github.com/Ammar-Samir-Q/DVLD-Project)**
 
 ---
 
@@ -42,7 +42,7 @@ A goal management application designed to organize goals, objectives, tasks, and
 
 **Technologies:** C# · ASP.NET Core Web API · SQL Server · JWT · ADO.NET
 
-**Work in Progress
+Work in Progress
 
 ---
 
