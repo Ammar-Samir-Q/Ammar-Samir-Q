@@ -52,9 +52,9 @@ Work in Progress
 
 A desktop application for managing car rentals, customers, vehicles, and rental operations using a layered architecture.
 
-**Technologies:** C# · .NET Framework · SQL Server · ADO.NET · Windows Forms
+**Technologies:** C# · .NET 10 · SQL Server · Entity Framwork Core · Windows Forms
 
-**[View Repository](https://github.com/Ammar-Samir-Q/Car-Rental-Project)**
+**[View Repository](https://github.com/Ammar-Samir-Q/Car-Rental-Managment-System)**
 
 ---
 
